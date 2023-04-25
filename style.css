@@ -1,0 +1,25 @@
+#block1 {
+  background-color: aliceblue;
+  width: 1425px;
+  height: 200px;
+  border: 2px solid black;
+  display: block;
+}
+#block2 {
+  background-color: aliceblue;
+  width: 1425px;
+  height: 600px;
+  border: 2px solid black;
+  display: block;
+}
+#block1 img {
+  height: 100px;
+  width: 100px;
+  padding: 50px;
+}
+
+#block2 img {
+  height: 600px;
+  width: 1425px;
+  display: block;
+}
